@@ -9,6 +9,7 @@ public class example {
 		{
 			System.out.print(name.charAt(i));
 		}//explained to vignan
+		    //explained to saiteja also
 	}
 
 }
